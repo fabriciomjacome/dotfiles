@@ -1,0 +1,6 @@
+[user]
+	signingkey = AB3BC082084C0F03
+	email = 29781840+fabriciomjacome@users.noreply.github.com
+	name = Fabricio Moura Jacome
+[commit]
+	gpgsign = true
